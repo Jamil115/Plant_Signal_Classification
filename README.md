@@ -10,3 +10,5 @@ This project focuses on classifying plant communication signals—such as Conten
 <img width="1917" height="825" alt="6" src="https://github.com/user-attachments/assets/a61aaae1-f61f-4688-bb1c-eb91438b8924" />
 <img width="1917" height="797" alt="7" src="https://github.com/user-attachments/assets/91f1e7d2-df0d-4761-a6e7-410b12ad104a" />
 <img width="1918" height="902" alt="8" src="https://github.com/user-attachments/assets/4c81c331-a4b9-43f2-bd12-97222cdcd7e1" />
+![9](https://github.com/user-attachments/assets/8705e5a5-88b0-401e-9106-6a258897b5b1)
+![10](https://github.com/user-attachments/assets/d39d3f08-9622-43a3-b5b7-2bb689840ccf)
